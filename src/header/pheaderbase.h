@@ -1,5 +1,4 @@
 #pragma once
-#include <sys/types.h>
 #include <libnet.h>
 
 namespace pnetwork {

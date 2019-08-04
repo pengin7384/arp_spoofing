@@ -4,7 +4,6 @@
 #include <pcap.h>
 #include <sys/socket.h>
 #include "ppacketmanager.h"
-#include <thread>
 
 namespace pnetwork {
 

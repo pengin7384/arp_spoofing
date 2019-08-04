@@ -1,6 +1,4 @@
 #include <iostream>
-#include <libnet.h>
-
 #include "pnetworkservice.h"
 #include "util/pstring.h"
 
