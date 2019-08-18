@@ -6,5 +6,5 @@
 
 ## Usage
 ```
-send_arp <interface> <sender_ip> <target_ip>
+./arp_spoofing <interface> <sender_ip> <target_ip> ...
 ```
